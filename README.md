@@ -1,0 +1,3 @@
+## running 
+```bash
+npm install
