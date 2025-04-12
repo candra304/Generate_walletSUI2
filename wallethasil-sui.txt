@@ -1,0 +1,20 @@
+=== Wallet SUI Example #1 ===
+Address    : 0x2c268...a274f8 (42 chars)
+Public Key : RKB8+...Ax8= (24 chars)
+Private Key: x0r/U...HK4= (44 chars)
+Mnemonic   : local shrug width ... siren toe (12 words)
+-------------------------------
+
+=== Wallet SUI Example #2 ===
+Address    : 0x3de9e...d3fee (42 chars)
+Public Key : 6FRDh...0F8= (24 chars)
+Private Key: 3e9Ux...vxU= (44 chars)
+Mnemonic   : visa again tree ... cloud off (12 words)
+-------------------------------
+
+=== Wallet SUI Example #3 ===
+Address    : 0x0dc44...5601 (42 chars)
+Public Key : wWsJd...yUE= (24 chars)
+Private Key: CqsX3...gA= (44 chars)
+Mnemonic   : chase blue solid ... near (6 words)
+-------------------------------
